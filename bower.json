@@ -1,0 +1,25 @@
+{
+  "name": "network-test-electron",
+  "description": "My extraordinary app",
+  "main": "index.js",
+  "authors": [
+    "test"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "electron-app",
+    "electron"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
